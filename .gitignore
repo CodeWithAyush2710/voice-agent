@@ -1,2 +1,3 @@
 /.vagent
 __pycache__
+.env
